@@ -1,1 +1,4 @@
-# KeyLog
+## Install 
+
+ pip install -e
+ 

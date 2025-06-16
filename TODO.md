@@ -7,3 +7,5 @@
 ## Reminder
 ### Première tentative
  - Utiliser pywin32 et la partie win32con avec la récupération du scan code pour traduire l'hexa pi
+ - Faut use un blocking call !
+ - 
